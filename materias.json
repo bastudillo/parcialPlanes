@@ -1,0 +1,172 @@
+[
+    {
+        "numero":1,
+        "materias":[
+            {
+                "codigo":"SIS101",
+                "materia":"Introduccion Ing. de sistemas",
+                "creditos": 1,
+                "estado": false
+            },
+            {
+                "codigo":"SIS102",
+                "materia":"Introduccion a la Informatica",
+                "creditos": 3,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":2,
+        "materias":[
+            {
+                "codigo":"SIS201",
+                "materia":"Programacion Orientada a Objetos",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS202",
+                "materia":"Algebrea Lineal",
+                "creditos": 4,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":3,
+        "materias":[
+            {
+                "codigo":"SIS301",
+                "materia":"Estructura de Datos",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS302",
+                "materia":"Electiva FISHI",
+                "creditos": 2,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":4,
+        "materias":[
+            {
+                "codigo":"SIS401",
+                "materia":"Vibraciones y Ondas",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS402",
+                "materia":"Estructura de Datos 2",
+                "creditos": 3,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":5,
+        "materias":[
+            {
+                "codigo":"SIS501",
+                "materia":"Teoria de Computacion",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS502",
+                "materia":"Arquitectura Computacional",
+                "creditos": 4,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":6,
+        "materias":[
+            {
+                "codigo":"SIS601",
+                "materia":"Estructura de Lenguajes",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS602",
+                "materia":"Sistemas Operativos",
+                "creditos": 3,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":7,
+        "materias":[
+            {
+                "codigo":"SIS701",
+                "materia":"Inteligencia Artificial",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS702",
+                "materia":"Sistemas Distribuidos",
+                "creditos": 3,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":8,
+        "materias":[
+            {
+                "codigo":"SIS801",
+                "materia":"Proyecto 1",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS802",
+                "materia":"Redes",
+                "creditos": 4,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":9,
+        "materias":[
+            {
+                "codigo":"SIS901",
+                "materia":"Gestion Empresarial",
+                "creditos": 3,
+                "estado": false
+            },
+            {
+                "codigo":"SIS902",
+                "materia":"Fundamentos de Economia",
+                "creditos": 4,
+                "estado": false
+            }
+        ]
+    },
+    {
+        "numero":10,
+        "materias":[
+            {
+                "codigo":"SIS1001",
+                "materia":"Legislacion Laboral",
+                "creditos": 1,
+                "estado": false
+            },
+            {
+                "codigo":"SIS1002",
+                "materia":"Trabajo de Grado",
+                "creditos": 4,
+                "estado": false
+            }
+        ]
+    }
+]
